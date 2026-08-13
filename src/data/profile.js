@@ -1,6 +1,6 @@
 
 import profilephoto from '../../assests/passport photo.jpg'
-import resumeSrc from '../../assests/Guhan_M_resume_ (2).pdf'
+import resumeSrc from '../../assests/Guhan_M_resume_ (3).pdf'
 
 const profile = {
   name: "Guhan M",
